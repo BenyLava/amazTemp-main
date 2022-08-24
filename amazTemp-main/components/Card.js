@@ -6,7 +6,7 @@ import { Container, Row, Col } from "reactstrap";
 
 
 
-function Cardcustom(img, title, text) {
+function Cardcustom(img, titleProduct, text) {
   return (
     <Card className="mb-3 mt-3" style={{ width: '18rem' }}>
       <Card.Img variant="top" src="/images/letterb.jpg" />
@@ -15,7 +15,7 @@ function Cardcustom(img, title, text) {
         <Card.Text>
           text
         </Card.Text>
-        <Button className="d-flex justify-content-center text-align-center" variant="primary">View on Amazon</Button>
+        <Button className="d-flex justify-content-center text-align-center">View on Amazon</Button>
       </Card.Body>
     </Card>
   );

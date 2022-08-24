@@ -36,7 +36,7 @@ const Footer = () => {
               <Col className="text-center">
                 <h6 className="text-light mb-3">Contact Us</h6>
                 <p className="text-light f-14"></p>
-                <h6 className="text-light pb-2">Email: kitchengadgetsupport@gmail.com</h6>
+                <h6 className="text-light pb-2">Email: kitchengadget.cs@gmail.com</h6>
                 {/*<ul className="list-unstyled footer-social-list mt-4">
                   <li className="list-inline-item"><a href="#"><i className="mdi mdi-facebook"></i></a></li>
                   <li className="list-inline-item"><a href="#"><i className="mdi mdi-instagram"></i></a></li>
